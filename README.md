@@ -10,3 +10,4 @@ I am constantly seeking new challenges and opportunities for growth as a softwar
 * Web design (figma): creation of layouts and logos
 * HTML & CSS (SCSS)
 * React
+* UI/UX design
